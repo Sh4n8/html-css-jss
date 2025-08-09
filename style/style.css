@@ -2,5 +2,13 @@ body {
   margin: 0;
   font-family: sans-serif;
   overflow-x: hidden;
+  padding-top: 70px;
 }
 
+html {
+  scroll-behavior: smooth; 
+}
+
+#name-section {
+  scroll-margin-top: 80px; 
+}
